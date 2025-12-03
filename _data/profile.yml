@@ -1,18 +1,18 @@
-primary_name: "Your Name"
+primary_name: "Qingyu Shi"
 secondary_name: ""
 navbar_name: "Your Name"
 
 positions:
-- name: Title or Position
-- name: Affiliation Name
-  logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+- name: Ph.D. Student
+- name: Peking University
+  logo: /assets/images/badges/PKU.png
 
 
-email: "your@email.com"
+email: "q.y.shi@stu.pku.edu.cn"
 # cv_link: link-to-your-cv-file
-gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
-github: your_github_id
-twitter: your_twitter_id  # Do not include the '@' symbol
+gscholar: https://scholar.google.com.hk/citations?user=VpSqhJAAAAAJ&hl=zh-CN  # This is an example, replace it with your own Google Scholar ID
+github: Shi-qingyu
+twitter: shiqingyu  # Do not include the '@' symbol
 # wechat_qrcode: /assets/images/etc/wechat.jpg
 # wechat_prompt: >-
 #   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
@@ -35,27 +35,32 @@ portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: Massachusetts Institute of Technology
-  logo: /assets/images/badges/MIT_Social_circle.png
-  position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
-    Ph.D. Student
-  date: Sep. 2024 - present
 - name: Peking University
-  logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+  logo: /assets/images/badges/PKU.png
+  position: >- 
+    School of Intelligence Science and Technology <br/>
+    Ph.D. Student
+  date: Sep. 2023 - present
+- name: Beijing Institute of Technology
+  logo: /assets/images/badges/BIT.png
+  position: B.S. in School of Mathematics and Statistics
+  date: Sep. 2019 - Jul. 2023
 
-# experience:
-# - name: Peking University
-#   logo: /assets/images/badges/PKU_red.png
-#   position: Research Intern
-#   date: Sep. 2019 - Jul. 2021
+experience:
+- name: ByteDance
+  logo: /assets/images/badges/bytedance.png
+  position: Research Intern
+  date: Dec. 2025 - present
+
+- name: TeleAI
+  logo: /assets/images/badges/teleai.png
+  position: Research Intern
+  date: Mar. 2025 - Dec. 2025
 
 awards:
-- name: Award Name 2
+- name: Merit Student
   date: 2024
-- name: Award Name 1 
-  date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
-  date: 2021
+- name: Outstanding Graduating Student of Beijing
+  date: 2023
+- name: National Scholarship
+  date: 2021, 2022
